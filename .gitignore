@@ -1,2 +1,7 @@
-/bin
-/.settings
+*
+
+!src/
+!src/**
+!media/
+!media/**
+!.gitignore
